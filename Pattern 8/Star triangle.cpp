@@ -8,7 +8,7 @@ int main()
     cin>>n;
     for(row = 1;row <= n;row++,cout<<"\n"){
         for(col = 1;col <= row;col++){
-            cout<<*<<" ";
+            cout<<"* ";
         }
     }
     
