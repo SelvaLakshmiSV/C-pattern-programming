@@ -5,3 +5,8 @@
 ![image](https://user-images.githubusercontent.com/76725996/120100034-42650200-c15c-11eb-9af4-880451b4cf33.png)
 ## Pattern 3
 ![image](https://user-images.githubusercontent.com/76725996/120105602-3fc3d600-c177-11eb-8ed5-b7c8937605c5.png)
+## Pattern 4
+![image](https://user-images.githubusercontent.com/76725996/120105757-ffb12300-c177-11eb-94e6-0d045cb3e771.png)
+## Pattern 5
+![image](https://user-images.githubusercontent.com/76725996/120106310-23756880-c17a-11eb-98af-85cb3836ef7d.png)
+
