@@ -20,5 +20,7 @@
 ## Pattern 10
 ![image](https://user-images.githubusercontent.com/76725996/120108603-85869b80-c183-11eb-85af-921d157f4529.png)
 ## Pattern 11
-
+![image](https://user-images.githubusercontent.com/76725996/120109083-891b2200-c185-11eb-8909-59130fe1998c.png)
+## Pattern 12
+![image](https://user-images.githubusercontent.com/76725996/120109218-19596700-c186-11eb-847e-cec3ca9ab1ea.png)
 
