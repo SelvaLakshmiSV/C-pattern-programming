@@ -34,7 +34,9 @@
 ## Pattern 16
 ![image](https://user-images.githubusercontent.com/76725996/120110283-7525ef00-c18a-11eb-975c-739c0e924c8d.png)
 ## Pattern 17
+![image](https://user-images.githubusercontent.com/76725996/120114399-aad3d380-c19c-11eb-90ee-0e5333c665a3.png)
 ## Pattern 18
+![image](https://user-images.githubusercontent.com/76725996/120114484-fdad8b00-c19c-11eb-98bb-de234664a757.png)
 ## Pattern 19
 ## Pattern 20
 ![image](https://user-images.githubusercontent.com/76725996/120114296-25e8ba00-c19c-11eb-8f3e-c648ae7178ea.png)
